@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "This app is about eating burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snowghost24/Burger-Eater-App.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Jose Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowghost24/Burger-Eater-App/issues"
+  },
+  "homepage": "https://github.com/snowghost24/Burger-Eater-App#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-handlebars": "*",
+    "body-parser": "*"
+  }
+}
