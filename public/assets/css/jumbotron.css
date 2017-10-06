@@ -86,3 +86,9 @@ body {
     text-align: center;
     
 }
+
+#dymoDad{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
